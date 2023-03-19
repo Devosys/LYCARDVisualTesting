@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_lycard/a_'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('paymentmethods')
 
+WebUI.closeBrowser()
+
