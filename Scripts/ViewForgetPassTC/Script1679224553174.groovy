@@ -23,9 +23,11 @@ WebUI.navigateToUrl('https://new.ly-card.com/home')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/ViewplayCardsRepo/Page_lycard/a_'))
+WebUI.click(findTestObject('Object Repository/ForGOTpassrepo/Page_lycard/span_'))
 
-WebUI.takeScreenshotAsCheckpoint('ViewplayCards')
+WebUI.click(findTestObject('Object Repository/ForGOTpassrepo/Page_- lycard/a_'))
+
+WebUI.takeScreenshotAsCheckpoint('forgotpass')
 
 WebUI.closeBrowser()
 

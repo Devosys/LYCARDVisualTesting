@@ -23,9 +23,11 @@ WebUI.navigateToUrl('https://new.ly-card.com/home')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/ViewplayCardsRepo/Page_lycard/a_'))
+WebUI.click(findTestObject('Object Repository/ContactUSVSTCRepo/Page_lycard/a_'))
 
-WebUI.takeScreenshotAsCheckpoint('ViewplayCards')
+WebUI.takeScreenshotAsCheckpoint('ContactUSVSTC')
+
+WebUI.closeBrowser()
 
 WebUI.closeBrowser()
 

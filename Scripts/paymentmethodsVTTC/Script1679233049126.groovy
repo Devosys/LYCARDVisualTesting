@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://new.ly-card.com/home')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/ViewplayCardsRepo/Page_lycard/a_'))
+WebUI.click(findTestObject('Object Repository/Page_lycard/a_'))
 
-WebUI.takeScreenshotAsCheckpoint('ViewplayCards')
+WebUI.takeFullPageScreenshotAsCheckpoint('paymentmethods')
 
 WebUI.closeBrowser()
 
