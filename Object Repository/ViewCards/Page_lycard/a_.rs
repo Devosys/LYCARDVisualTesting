@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>906ce60e-3ca0-44ac-9615-2e3dc7581175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'المزيد')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.main-btn.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e3b624b-e4b0-439c-b1e8-9a01aa2bc07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://new.ly-card.com/most-selling</value>
+      <webElementGuid>3039c9b8-664e-4a45-b378-197f377157ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-btn w-100</value>
+      <webElementGuid>0fef5dab-5576-4e65-9880-987d804d3f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    المزيد
+                                </value>
+      <webElementGuid>9fb6684c-4558-4fe5-b330-a14427ccb684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;global-main&quot;]/section[@class=&quot;solid-part mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;solid-part-product&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row justify-content-md-center&quot;]/div[@class=&quot;col-md-2 mt-3&quot;]/a[@class=&quot;main-btn w-100&quot;]</value>
+      <webElementGuid>fbb6b38b-db3e-4a0f-8b70-27a374520557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'المزيد')]</value>
+      <webElementGuid>399168ed-1d3f-45cf-a0ec-86da1a7749c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الأكثر مبيعا'])[2]/following::a[5]</value>
+      <webElementGuid>cf600bf6-7616-48a0-b5bc-c0c1da091cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تاجر'])[1]/following::a[5]</value>
+      <webElementGuid>34f34e9e-9df1-4924-8231-71cc1340ce75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='خدمات الشحن'])[2]/preceding::a[1]</value>
+      <webElementGuid>d51feeba-367f-47f4-b12f-48c1f387c8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كرانشي رول'])[1]/preceding::a[1]</value>
+      <webElementGuid>5008f2bb-5e74-4d72-b90d-061f2dc17604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='المزيد']/parent::*</value>
+      <webElementGuid>6990c7fb-c872-4e88-977d-9244310aa750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://new.ly-card.com/most-selling')])[2]</value>
+      <webElementGuid>98fd64e3-9570-4ea2-a315-8394d4bb193f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/a</value>
+      <webElementGuid>c1c7b478-5e83-413d-b4ba-d1dc591f6911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://new.ly-card.com/most-selling' and (text() = '
+                                    المزيد
+                                ' or . = '
+                                    المزيد
+                                ')]</value>
+      <webElementGuid>2faeeb7c-de98-49ca-9040-11a011b737cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

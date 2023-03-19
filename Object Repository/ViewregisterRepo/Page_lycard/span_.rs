@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>188e43af-e458-4893-8fde-74426c905aea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exampleModal']/div/div/div/section/div/div/div/div/div/div[2]/span/p/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec0f620a-6d20-4af9-b2a9-7e680dcb5096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>عميل</value>
+      <webElementGuid>f3bc3669-5bf8-464c-8c55-968cc7a701f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exampleModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/section[@class=&quot;solid-part&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;item-details new-account user-type mb-4 mt-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;type-btn mt-4&quot;]/span[1]/p[1]/a[1]/span[1]</value>
+      <webElementGuid>8a057950-28f6-4597-8fd7-919778efdfe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exampleModal']/div/div/div/section/div/div/div/div/div/div[2]/span/p/a/span</value>
+      <webElementGuid>000c0246-ee7a-4fda-ad98-6d919d04f4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إنشاء حساب جديد'])[3]/following::span[2]</value>
+      <webElementGuid>01e00109-9d2b-465c-9de4-859a4bc9b837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تاجر'])[1]/preceding::span[1]</value>
+      <webElementGuid>4dbd4e1b-dce9-4183-a9f1-c8f220de4cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الأكثر مبيعا'])[2]/preceding::span[3]</value>
+      <webElementGuid>3cf837c6-1f0e-4e87-a921-b854c819a0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='عميل']/parent::*</value>
+      <webElementGuid>f5a7ebfd-5c44-468d-a9e3-0afdf21ee106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a/span</value>
+      <webElementGuid>3da98695-99b0-495a-94f1-9abb5d13f2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'عميل' or . = 'عميل')]</value>
+      <webElementGuid>1ae109b0-05cc-4d9b-9721-2f15393c6b75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

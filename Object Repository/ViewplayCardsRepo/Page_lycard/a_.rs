@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>a4766e99-dcd7-44d9-b06d-2fbf17dc8fad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'المزيد')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29f3b563-af98-4d27-a703-ef17dfe125e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://new.ly-card.com/services/games</value>
+      <webElementGuid>6498e0ee-c3aa-477e-99cd-1c8d4c297ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-btn w-100</value>
+      <webElementGuid>10dc9d84-36a3-492d-a236-524532c29f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    المزيد
+                                </value>
+      <webElementGuid>19981756-c501-41a9-aef4-840e69f270b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;global-main&quot;]/section[@class=&quot;solid-part  mt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;solid-part-product&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row justify-content-md-center&quot;]/div[@class=&quot;col-md-2 mt-3&quot;]/a[@class=&quot;main-btn w-100&quot;]</value>
+      <webElementGuid>40a6dcec-bf5e-4633-9428-4e2a84ab356f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'المزيد')])[3]</value>
+      <webElementGuid>db863b68-4282-4224-8a19-cfc6ec9d7b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جواكر'])[1]/following::a[1]</value>
+      <webElementGuid>cbd3794e-93a6-4674-bcd8-342151261614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free fire'])[1]/following::a[2]</value>
+      <webElementGuid>772335a3-87b7-49e7-9fe6-b3b5701c9fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ليبيا كارد'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e7c5730-12de-4c0d-b829-9f89a2d1fb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ليبيا كارد'])[2]/preceding::a[5]</value>
+      <webElementGuid>c011c233-1dfc-4b72-bfab-28c4c886f480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://new.ly-card.com/services/games')])[2]</value>
+      <webElementGuid>52d7def6-5cce-495c-b32a-242bf8ca1715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]/div/div[4]/div/div/a</value>
+      <webElementGuid>4ed3cd99-be36-4d13-ab7b-407e3eaeb671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://new.ly-card.com/services/games' and (text() = '
+                                    المزيد
+                                ' or . = '
+                                    المزيد
+                                ')]</value>
+      <webElementGuid>df2a8448-0969-4d28-86f4-3949bd9b106e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
